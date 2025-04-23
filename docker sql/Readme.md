@@ -113,7 +113,7 @@ You should see the list of passengers displayed in the app.
 👉 Both containers communicate over **my_postgres_network**.  
 👉 Application accessible at **http://localhost:8501**.  
 
-![App Screenshot]("C:\Users\bhave\OneDrive\Pictures\Screenshots\Screenshot 2025-04-23 120335.png")
+!["C:\Users\bhave\OneDrive\Pictures\Screenshots\Screenshot 2025-04-23 120335.png"]
 
 This project provides a **containerized solution** for data visualization using **Streamlit and PostgreSQL**. 🚀
 

@@ -113,6 +113,7 @@ You should see the list of passengers displayed in the app.
 👉 Both containers communicate over **my_postgres_network**.  
 👉 Application accessible at **http://localhost:8501**.  
 
-! [https://github.com/bhaveshx15/Docker-Exp/blob/658259975cd05ea1dc50c8c5c88c4c08530d8a61/docker%20sql/Screenshot%202025-04-23%20120335.png]
+![Screenshot 2025-04-23 120335](https://github.com/user-attachments/assets/43e72498-d0d2-49dc-a56b-ef7a6785de2c)
+
 This project provides a **containerized solution** for data visualization using **Streamlit and PostgreSQL**. 🚀
 
